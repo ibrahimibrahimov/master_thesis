@@ -5,7 +5,7 @@ Articulation-to-Speech Synthesis (ASS) focuses on converting articulatory biosig
 
 ### Synthesized speech samples:
 In this repository, you can find synthesized speech samples as result of this thesis work. 
-All details about how to proceed with samples can be found in Documentation.txt
+All details about how to proceed with samples can be found in "Documentation.txt".
 
 ### Acknowledgement:
 I am deeply grateful to my thesis supervisors, Gábor Gosztolya and Tamás Gábor Csapó, for their unwavering recommendations, guidance, and invaluable support. I would like to thank all the distinguished professors who have had a profound impact on my academic and personal growth during my master's degree. Last but not least, I would like to recognize my mother for her continued encouragement and investment in my education.
