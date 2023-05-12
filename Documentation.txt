@@ -1,0 +1,16 @@
+1)original audio 
+
+2)no_aug files are files with original dataset without any modification (the difference is hearable between these files and the other modified synthesized samples)
+
+3)baseline_aug folder contains the samples of baseline
+
+4)CTM
+5)ITM
+6)DDM
+7)SNI
+8)RS
+9)EE
+
+(generally, 9 samples per each speaker-sentence) 
+
++ .txt files contain sentence itself
